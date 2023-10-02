@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.game{
+  display: flex;
+  gap: 1rem;
+  margin: auto;
+  max-width: 350px;
+  max-height: 100dvh;
+}
